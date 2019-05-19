@@ -23,5 +23,37 @@
       "Status": false,
       "id": "5839f3e4-58ec-224e-37b6-e66e152e48f4"
     }
+  ], "AddFactors": [
+    {
+      "FactorName": "Test Factor",
+      "Description": "This is Test Expresson",
+      "id": "37b20f35-7c28-a4c1-f270-7d7354184bb4",
+      "Status": false,
+      "editMode": false
+    }
+  ],
+  "AddCompany": [
+    {
+      "IndicatorName": "sf",
+      "CompanyAddress": "sdf",
+      "CompanyPhone": "dfg",
+      "CompanyEmail": "dsgf",
+      "id": "049a28c1-c0d7-8075-568d-1b250934733e",
+      "Status": true
+    }
+  ],
+  "AddIndicators": [],
+  "AddAdmin": [
+    {
+      "FactorName": "dfg",
+      "Address": "Calicut",
+      "Gender": "male",
+      "id": "4b733d13-0eaf-df4b-81fd-0d88f0dcb2ff",
+      "Name": "Ajmal",
+      "Emal": "mhdajmalik@gmai.com",
+      "Phone": 8089919182,
+      "DOB": "2019-05-10",
+      "Status": true
+    }
   ]
 }
