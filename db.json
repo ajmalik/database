@@ -5,18 +5,21 @@
       "username": "sadmin",
       "password": "sadmin",
       "token": "sadmin"
-    },
-    {
-      "id": "admin",
-      "username": "admin",
-      "password": "admin",
-      "token": "admin"
-    },
-    {
-      "id": "user",
-      "username": "user",
-      "password": "user",
-      "token": "user"
     }
-  ]
+  ], "groups": [
+    {
+      "GroupName": "Group 1",
+      "Description": "Grp1 Descrpton",
+      "Status": true,
+      "id": "a3eb2115-253f-beac-1200-d1296e8cdab3",
+      "editMode": false
+    }
+  ], "questiontype": [
+    {
+      "GroupName": "Objective",
+      "Description": "minus mark",
+      "Status": false,
+      "id": "5839f3e4-58ec-224e-37b6-e66e152e48f4"
+    }
+  ],
   }
