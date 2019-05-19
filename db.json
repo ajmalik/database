@@ -16,22 +16,6 @@
       "editMode": false
     }
   ],
-  "questiontype": [
-    {
-      "GroupName": "Objective",
-      "Description": "minus mark",
-      "Status": false,
-      "id": "5839f3e4-58ec-224e-37b6-e66e152e48f4"
-    }
-  ], "AddFactors": [
-    {
-      "FactorName": "Test Factor",
-      "Description": "This is Test Expresson",
-      "id": "37b20f35-7c28-a4c1-f270-7d7354184bb4",
-      "Status": false,
-      "editMode": false
-    }
-  ],
   "AddCompany": [
     {
       "IndicatorName": "sf",
@@ -42,7 +26,6 @@
       "Status": true
     }
   ],
-  "AddIndicators": [],
   "AddAdmin": [
     {
       "FactorName": "dfg",
