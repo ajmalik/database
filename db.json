@@ -1,0 +1,22 @@
+{
+  "login": [
+    {
+      "id": "sadmin",
+      "username": "sadmin",
+      "password": "sadmin",
+      "token": "sadmin"
+    },
+    {
+      "id": "admin",
+      "username": "admin",
+      "password": "admin",
+      "token": "admin"
+    },
+    {
+      "id": "user",
+      "username": "user",
+      "password": "user",
+      "token": "user"
+    }
+  ],
+  }
