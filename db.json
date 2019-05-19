@@ -6,7 +6,8 @@
       "password": "sadmin",
       "token": "sadmin"
     }
-  ], "groups": [
+  ], 
+  "groups": [
     {
       "GroupName": "Group 1",
       "Description": "Grp1 Descrpton",
@@ -14,12 +15,13 @@
       "id": "a3eb2115-253f-beac-1200-d1296e8cdab3",
       "editMode": false
     }
-  ], "questiontype": [
+  ], 
+  "questiontype": [
     {
       "GroupName": "Objective",
       "Description": "minus mark",
       "Status": false,
       "id": "5839f3e4-58ec-224e-37b6-e66e152e48f4"
     }
-  ],
+  ]
   }
